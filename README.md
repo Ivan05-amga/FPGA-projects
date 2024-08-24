@@ -6,16 +6,7 @@
 
 ## Project Showcase
 
-### [Project 1 Click Counter]
+### Project 1:  Click Counter
 
 **Description:**
-* [Brief overview of the project's purpose and functionality]
-
-**Features:**
-* [List of key features or capabilities]
-
-**Demo:**
-* [Link to a video or GIF demonstration]
-
-**Code:**
-* [Link to the project's source code repository]
+* Count the number of times the user press a button. 
