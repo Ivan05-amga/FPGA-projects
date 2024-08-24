@@ -2,8 +2,6 @@
 
 **Welcome to my FPGA projects repository!** This space is dedicated to showcasing my work with the Tang Nano 9K.
 
-[Your Brief Bio or Interests]
-
 ## Project Showcase
 
 ### Project 1:  Click Counter
